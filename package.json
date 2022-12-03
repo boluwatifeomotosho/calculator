@@ -1,0 +1,15 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "",
+  "default": "script.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html --dist-dir ./dist"
+  },
+  "author": "Boluwatife",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.8.0"
+  }
+}
